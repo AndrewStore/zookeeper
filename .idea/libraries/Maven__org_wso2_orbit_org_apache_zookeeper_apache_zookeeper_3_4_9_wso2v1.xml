@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.orbit.org.apache.zookeeper:apache-zookeeper:3.4.9.wso2v1">
+    <CLASSES>
+      <root url="jar://E:/workTools/apache-maven-3.5.0/repository/org/wso2/orbit/org/apache/zookeeper/apache-zookeeper/3.4.9.wso2v1/apache-zookeeper-3.4.9.wso2v1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/workTools/apache-maven-3.5.0/repository/org/wso2/orbit/org/apache/zookeeper/apache-zookeeper/3.4.9.wso2v1/apache-zookeeper-3.4.9.wso2v1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/workTools/apache-maven-3.5.0/repository/org/wso2/orbit/org/apache/zookeeper/apache-zookeeper/3.4.9.wso2v1/apache-zookeeper-3.4.9.wso2v1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
